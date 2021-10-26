@@ -1,0 +1,13 @@
+@import "./datepicker.scss";
+@import "./select2.scss";
+
+table.fee-condition-table {
+	tr.condition-row {
+		td {
+			input,
+			select {
+				width: 100%;
+			}
+		}
+	}
+}
