@@ -1,4 +1,4 @@
-# Custom Fee #
+# Addisonal Fee #
 **Contributors:** [shahreyar](https://github.com/Shahreyar46)<br>
 **Tags:** WooCommerce, wc<br>
 **Requires at least:** 4.4<br>
